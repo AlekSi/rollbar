@@ -1,4 +1,4 @@
-rollbar
+rollbar [![Build Status](https://travis-ci.org/AlekSi/rollbar.svg)](https://travis-ci.org/AlekSi/rollbar)
 =======
 
 Work-in-progress.
